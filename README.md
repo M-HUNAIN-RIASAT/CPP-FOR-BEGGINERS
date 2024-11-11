@@ -1,2 +1,3 @@
 # CPP-FOR-BEGGINERS
-This will contain my lecture notes on the fundamentals of c++
+This repository contains my lecture notes on the fundamentals of c++
+Author- M HUNAIN RIASAT
